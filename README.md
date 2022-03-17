@@ -4,17 +4,9 @@ Arise-list support you to make password list with victim information to find the
 
 ## Installation
 ```
-git clone https://github.com/blackaries506/blackariestool.git
-cd blackariestool
+git clone https://github.com/blackaries506/Arise-List.git
+cd Arise-List
 ```
-
-## Usage
-1. instabot 
-2. spam bot
-3. Data encryption
-4. Phone Number info
-6. pass list maker
-7. pin list maker
  
 ### password
 ```
